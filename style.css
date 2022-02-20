@@ -4,11 +4,11 @@
     box-sizing: border-box;
 }
 
-.container{
+.container-box{
     display: flex;
 }
 
-.container div{
+.container-box div{
     height: 100vh;
     width: 20%;
     display: flex;
